@@ -1,4 +1,8 @@
 /* Customize Bootstrap */
+body {
+	background-color: rgb(245, 244, 237);
+}
+
 .input-xlarge {
 	width: 190px;
 }
