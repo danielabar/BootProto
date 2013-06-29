@@ -15,8 +15,9 @@ body {
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#339E2A', endColorstr='#22A547', GradientType=0);
 }
 
+/* Need better way, otherwise messes up layout when add user avator in nav bar */
 /* top right bottom left */
-.navbar .nav {
+.navbar .nav-top-pad {
 	margin: 15px 10px 0 0;
 }
 
