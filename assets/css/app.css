@@ -3,12 +3,28 @@ body {
 	background-color: rgb(245, 244, 237);
 }
 
+.navbar-inverse .navbar-inner {
+	background-color: #339E2A;
+	background-image: -moz-linear-gradient(top, #339E2A, #22A547);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#339E2A), to(#22A547));
+	background-image: -webkit-linear-gradient(top, #339E2A, #22A547);
+	background-image: -o-linear-gradient(top, #339E2A, #22A547);
+	background-image: linear-gradient(to bottom, #339E2A, #22A547);
+	background-repeat: repeat-x;
+	border-color: #252525;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#339E2A', endColorstr='#22A547', GradientType=0);
+}
+
 .navbar-form {
 	margin-top: 15px;
 }
 
 .input-xlarge {
 	width: 190px;
+}
+
+legend {
+	font-size: 32px;
 }
 
 .form-horizontal .controls {
