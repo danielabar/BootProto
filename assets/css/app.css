@@ -15,6 +15,16 @@ body {
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#339E2A', endColorstr='#22A547', GradientType=0);
 }
 
+/* top right bottom left */
+.navbar .nav {
+	margin: 15px 10px 0 0;
+}
+
+.navbar .nav > li {
+	margin-right: 15px;
+	margin-left: 15px;
+}
+
 .navbar-form {
 	margin-top: 15px;
 }
