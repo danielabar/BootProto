@@ -1,6 +1,10 @@
-/* Customize Bootstrap */
+/* Customize Bootstrap  Start */
 body {
 	background-color: rgb(245, 244, 237);
+}
+
+.navbar-form {
+	margin-top: 15px;
 }
 
 .input-xlarge {
@@ -10,13 +14,14 @@ body {
 .form-horizontal .controls {
 	margin-left: 100px;
 }
+/* Customize Bootstrap  Start */
 
 .top-margin {
 	margin-top: 50px;
 }
 
 .login-border {
-	margin-top: 20px;
+	margin-top: 40px;
 	padding-left: 15px;
 	border-radius: 5px; 
 	-moz-border-radius: 5px; 
