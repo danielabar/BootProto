@@ -1,0 +1,11 @@
+.top-margin {
+	margin-top: 50px;
+}
+
+.login-border {
+	padding-left: 15px;
+	border-radius: 5px; 
+	-moz-border-radius: 5px; 
+	-webkit-border-radius: 5px; 
+	border: 2px solid #800000;
+}
