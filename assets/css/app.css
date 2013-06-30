@@ -82,6 +82,7 @@ legend {
 	padding: 5px 10px 5px 10px;
 	margin-bottom: 10px;
 	background-color: #FAE46F;
+	max-width: 200px;
 }
 
 .ld-top-left {
