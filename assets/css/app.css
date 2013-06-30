@@ -17,12 +17,12 @@ body {
 
 /* top right bottom left */
 .navbar .nav-top-pad {
-	margin: 15px 10px 0 0;
+	margin: 15px 0px 0 0;
 }
 
 .navbar .nav > li {
-	margin-right: 15px;
-	margin-left: 15px;
+	margin-right: 5px;
+	margin-left: 5px;
 }
 
 .navbar-form {
