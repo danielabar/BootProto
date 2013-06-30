@@ -95,6 +95,11 @@ legend {
 
 .ld-bottom-left {
 	position: relative;
+	bottom: -20px;
+}
+
+.ld-bottom-right {
+	position: relative;
 }
 
 .btn-signup {
